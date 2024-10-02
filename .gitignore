@@ -20,6 +20,10 @@ ENV/
 # Ignore large HTML map file
 HTML_Maps/clustering_kmeans_map.html
 
+# Ignore specific files in Notebooks
+Notebooks/clustering_kmeans_map.html
+
+
 # Ignore other common files
 *.swp
 *.swo
@@ -30,3 +34,5 @@ HTML_Maps/clustering_kmeans_map.html
 # Ignore large data files
 Data/Global_Terrorism_Database_May_2022.xlsx
 Data/Global_Terrorism_Database_May_2022.csv
+# Ignore the GTD.git directory
+GTD.git/
