@@ -37,3 +37,4 @@ Data/Global_Terrorism_Database_May_2022.csv
 # Ignore the GTD.git directory
 GTD.git/terrorism_map.html
 Notebooks/clustering.ipynb
+Notebooks/terrorism_map.html
