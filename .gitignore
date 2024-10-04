@@ -32,7 +32,7 @@ Notebooks/clustering_kmeans_map.html
 *.old
 
 # Ignore large data files
-Data/Global_Terrorism_Database_May_2022.xlsx
+Data/Global Terrorism Database May 2022.xlsx
 Data/Global_Terrorism_Database_May_2022.csv
 # Ignore the GTD.git directory
 GTD.git/terrorism_map.html
